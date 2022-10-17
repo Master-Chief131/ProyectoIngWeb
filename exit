@@ -1,0 +1,37 @@
+[33mcommit a12d6b3741b34022567850c88a0457d1a14e239b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 0a75014 542d584
+Author: Luis Marquez <luis.marquez3@utp.ac.pa>
+Date:   Sat Oct 15 18:11:45 2022 -0500
+
+    Merge branch 'luis'
+    union de la rama luis con la rama master, con los archivos basicos
+
+[33mcommit 542d584413193cdd3786011bc215d282acda4eba[m[33m ([m[1;31mProyectoIngWeb/Luis[m[33m, [m[1;32mLuis[m[33m)[m
+Author: Luis Marquez <luis.marquez3@utp.ac.pa>
+Date:   Sat Oct 15 18:05:22 2022 -0500
+
+    Agregando todo lo basico de las carpetas
+
+[33mcommit 0a75014a1395f4cd81e4a12e37f28d9184c61aa5[m[33m ([m[1;31mProyectoIngWeb/master[m[33m)[m
+Author: Luis Marquez <luis.marquez3@utp.ac.pa>
+Date:   Tue Oct 11 15:35:31 2022 -0500
+
+    Borrando el archivo index.txt xd
+
+[33mcommit 891e276e4f19715e3ae204c240bf0f17ea94d5ee[m
+Author: Luis Marquez <luis.marquez3@utp.ac.pa>
+Date:   Tue Oct 11 14:06:58 2022 -0500
+
+    Agregando los archivos css
+
+[33mcommit 9b79ae996cc95ac6b84cc27ebcecf94dbbc03b8f[m
+Author: Luis Marquez <luis.marquez3@utp.ac.pa>
+Date:   Tue Oct 11 14:00:01 2022 -0500
+
+    Agregando Estructura basica del proyecto
+
+[33mcommit 6e93163ab348817bf6175d155871effa50a7e570[m
+Author: Luis Marquez <luis.marquez3@utp.ac.pa>
+Date:   Tue Oct 11 13:52:36 2022 -0500
+
+    Agregando la pagina principal

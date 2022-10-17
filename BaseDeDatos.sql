@@ -1,0 +1,10 @@
+CREATE TABLE [n260m_32805646_ProyectoIngWeb].[Usuario](
+    ID_Usuario INT NULL DEFAULT NULL AUTO_INCREMENT,
+    Nombre VARCHAR(35) NOT NULL,
+    Email VARCHAR(74) NOT NULL,
+    Birthday DATE NOT NULL,
+    Pais VARCHAR(50) NOT NULL,
+    Idioma VARCHAR(50) NOT NULL,
+    Password VARCHAR(32) NOT NULL,
+    PRIMARY KEY(ID_Usuario)
+);
